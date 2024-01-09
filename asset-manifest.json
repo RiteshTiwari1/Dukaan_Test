@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dukaan_Test/static/css/main.123e2b82.css",
+    "main.js": "/Dukaan_Test/static/js/main.5cc75b09.js",
+    "static/js/787.4661b1fa.chunk.js": "/Dukaan_Test/static/js/787.4661b1fa.chunk.js",
+    "index.html": "/Dukaan_Test/index.html",
+    "main.123e2b82.css.map": "/Dukaan_Test/static/css/main.123e2b82.css.map",
+    "main.5cc75b09.js.map": "/Dukaan_Test/static/js/main.5cc75b09.js.map",
+    "787.4661b1fa.chunk.js.map": "/Dukaan_Test/static/js/787.4661b1fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123e2b82.css",
+    "static/js/main.5cc75b09.js"
+  ]
+}
